@@ -6,7 +6,8 @@
         {
             "username": "mvexel",
             "userid": "8909",
-            "joined": "20130101",
+            "doj": "20130101",
+            "dol": null,
             "other_usernames": [
                 {
                 }
