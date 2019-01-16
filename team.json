@@ -63,5 +63,245 @@
                 }
             ]
         }
+        {
+            "username": "hoream_telenav",
+            "userid": "4437318",
+            "doj": "20160817",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "bogdanp_telenav",
+            "userid": "4433679",
+            "doj": "20160817",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "manuelab_telenav",
+            "userid": "4667606",
+            "doj": "20161003",
+            "dol": "20170920",
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "alinan_telenav",
+            "userid": "4667454",
+            "doj": "20161003",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "oanac2_telenav",
+            "userid": "4827272",
+            "doj": "20161101",
+            "dol": "20181231",
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "arming_telenav",
+            "userid": "4827171",
+            "doj": "20161108",
+            "dol": "20181231",
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "simonap_telenav",
+            "userid": "4827180",
+            "doj": "20161108",
+            "dol": "20181011",
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "lacram_telenav",
+            "userid": "4832980",
+            "doj": "20161110",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "andreis_telenav",
+            "userid": "4870032",
+            "doj": "20161121",
+            "dol": "20181231",
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "ionutr_telenav",
+            "userid": "4930407",
+            "doj": "20161205",
+            "dol": "20181231",
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "istvanv_telenav",
+            "userid": "4972028",
+            "doj": "20161207",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "petrar_telenav",
+            "userid": "4940486",
+            "doj": "20161208",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "lorandr_telenav",
+            "userid": "4973384",
+            "doj": "20161215",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "iuliah_telenav",
+            "userid": "5074211",
+            "doj": "20170104",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "inah_telenav",
+            "userid": "5188736",
+            "doj": "20170125",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "georges_telenav",
+            "userid": "5245700",
+            "doj": "20170201",
+            "dol": "20180405",
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "oliviap_telenav",
+            "userid": "5270261",
+            "doj": "20170206",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "marianp_telenav",
+            "userid": "5351387",
+            "doj": "20170220",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "vladm_telenav",
+            "userid": "5478253",
+            "doj": "20170313",
+            "dol": "20180220",
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "corinag_telenav",
+            "userid": "5607966",
+            "doj": "20170403",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "danielar_telenav",
+            "userid": "5663000",
+            "doj": "20170412",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "ioanam_telenav",
+            "userid": "6191639",
+            "doj": "20170619",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "ionutr2_telenav",
+            "userid": "6229487",
+            "doj": "20170626",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
+        {
+            "username": "teodorab_telenav",
+            "userid": "6294893",
+            "doj": "20170709",
+            "dol": null,
+            "other_usernames":[
+                {
+                }
+            ]
+        }
    ]
 }
